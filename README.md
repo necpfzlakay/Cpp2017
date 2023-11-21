@@ -1,6 +1,6 @@
 
-** My C++ Language Studies
+# My C++ Language Studies
 
-- I worked on C++ to improve my algorithmic skills
+### I worked on C++ to improve my algorithmic skills
 
-*** Easy To Use - just open with complier than compile and run it.
+* Easy To Use - just open with complier than compile and run it.
